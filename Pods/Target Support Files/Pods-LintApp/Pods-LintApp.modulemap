@@ -1,0 +1,6 @@
+framework module Pods_LintApp {
+  umbrella header "Pods-LintApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
